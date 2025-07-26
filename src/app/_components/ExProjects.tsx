@@ -12,6 +12,7 @@ export default function ExProjects() {
             className="flex max-w-xl flex-col gap-4 rounded-3xl bg-white/20 p-4 hover:bg-gray-300"
             href={project.href}
             target="_blank"
+            rel="noopener noreferrer"
           >
             <span className="flex justify-start">
               <img

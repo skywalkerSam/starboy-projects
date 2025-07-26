@@ -13,6 +13,7 @@ export default function Projects() {
             // className="flex max-w-xl flex-col gap-4 rounded-3xl bg-white/10 p-4 hover:bg-white/20"
             href={project.href}
             target="_blank"
+            rel="noopener noreferrer"
           >
             <span className="flex justify-start">
               <img src="/github-logo.svg" alt="GitHub Logo" width={21} height={21}/>
