@@ -2,10 +2,14 @@ import type { Projects } from "./projects";
 
 export const exProjectsList: Projects[] = [
   {
-    title: "The Hello World Project",
-    href: "https://github.com/skywalkerSam/the-hello-world-project",
-    description:
-      "Hello World for Every Programming Language possible! Hopefully.)",
+    title: "Dashboard Demo",
+    href: "https://github.com/skywalkerSam/dashboard-demo",
+    description: "Dashboard Demo w/ NEXT.js + Vercel.",
+  },
+  {
+    title: "MySpace Demo",
+    href: "https://github.com/skywalkerSam/mySpace-demo",
+    description: "My Space Demo w/ NEXT.js + Vercel.",
   },
   {
     title: "introductionToWebDevelopment",
@@ -13,35 +17,9 @@ export const exProjectsList: Projects[] = [
     description: "Introduction to Web Development, fr*",
   },
   {
-    title: "Project Cortana",
-    href: "https://github.com/skywalkerSam/Project-Cortana",
-    description: "Project Cortana. Inspired by Halo Infinite.)",
-  },
-  {
     title: "JS 101",
     href: "https://github.com/skywalkerSam/JS-101",
     description: 'JavaScript 101 (Not, Java. "JavaScript".)',
-  },
-  
-  {
-    title: "Python 101",
-    href: "https://github.com/skywalkerSam/Python-101",
-    description: "Introduction to Python 3",
-  },
-  {
-    title: "ML 101",
-    href: "https://github.com/skywalkerSam/ML-101",
-    description: "Machine Learning 101",
-  },
-  {
-    title: "Project: Stardate",
-    href: "https://github.com/skywalkerSam/stardate",
-    description: "A better way of dating things (at least for me.)",
-  },
-  {
-    title: "Dashboard Demo",
-    href: "https://github.com/skywalkerSam/dashboard-demo",
-    description: "Dashboard Demo w/ NEXT.js + Vercel.",
   },
   {
     title: "House Of Cards",
@@ -78,12 +56,7 @@ export const exProjectsList: Projects[] = [
     title: "Dall-E Wrapper",
     href: "https://github.com/skywalkerSam/dalleWrapper",
     description:
-    "Mimicking Dall-E-like Responses w/ Randomized Preset Images.)",
-  },
-  {
-    title: "Hello React!",
-    href: "https://github.com/skywalkerSam/hello-react",
-    description: "The Hello World of React.",
+      "Mimicking Dall-E-like Responses w/ Randomized Preset Images.)",
   },
   {
     title: "Animal Farm",
@@ -101,9 +74,13 @@ export const exProjectsList: Projects[] = [
     description: "Face Detection Demo built w/ Vite + React.",
   },
   {
+    title: "Hello React!",
+    href: "https://github.com/skywalkerSam/hello-react",
+    description: "The Hello World of React.",
+  },
+  {
     title: "Robofriends",
     href: "https://github.com/skywalkerSam/robofriends",
     description: "A Collection of Robot Cards made w/ React.",
   },
-  
 ];
