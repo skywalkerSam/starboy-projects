@@ -9,7 +9,7 @@
 
 ## Domains
 
-[projects.skywalkerSam.dev](https://blog.skywalkersam.dev)
+[projects.skywalkerSam.dev](https://projects.skywalkersam.dev)
 
 [starboy-projects.vercel.app](https://starboy-projects.vercel.app/)
 
