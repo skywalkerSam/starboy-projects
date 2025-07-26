@@ -2,24 +2,24 @@ import type { Projects } from "./projects";
 
 export const exProjectsList: Projects[] = [
   {
-    title: "Dashboard Demo",
-    href: "https://github.com/skywalkerSam/dashboard-demo",
-    description: "Dashboard Demo w/ NEXT.js + Vercel.",
-  },
-  {
     title: "MySpace Demo",
     href: "https://github.com/skywalkerSam/mySpace-demo",
     description: "My Space Demo w/ NEXT.js + Vercel.",
   },
   {
-    title: "introductionToWebDevelopment",
-    href: "https://github.com/skywalkerSam/introductionToWebDevelopment",
-    description: "Introduction to Web Development, fr*",
+    title: "Dashboard Demo",
+    href: "https://github.com/skywalkerSam/dashboard-demo",
+    description: "Dashboard Demo w/ NEXT.js + Vercel.",
   },
   {
     title: "JS 101",
     href: "https://github.com/skywalkerSam/JS-101",
     description: 'JavaScript 101 (Not, Java. "JavaScript".)',
+  },
+  {
+    title: "introductionToWebDevelopment",
+    href: "https://github.com/skywalkerSam/introductionToWebDevelopment",
+    description: "Introduction to Web Development, fr*",
   },
   {
     title: "Tic Tac Toe",
