@@ -1,4 +1,5 @@
 import { projectsList } from "_data/projects/projects";
+// import Image from "next/image";
 import Link from "next/link";
 
 export default function Projects() {
@@ -12,10 +13,12 @@ export default function Projects() {
             href={project.href}
             target="_blank"
           >
+            <span className="flex justify-start">
+              <img src="/github-logo.svg" alt="GitHub Logo" width={21} height={21}/>
+            </span>
             <h3 className="text-2xl font-bold">{project.title}</h3>
             {/* <h3 className="text-2xl font-bold">{project.title} →</h3> */}
             <div className="text-lg">{project.description}</div>
-            <div className="flex justify-end"><img src="/github-logo.svg" alt="GitHub Logo" width={21} /></div>
           </Link>
         ))}
       </div>
