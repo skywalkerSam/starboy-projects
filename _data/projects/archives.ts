@@ -42,14 +42,14 @@ export const archivesList: Projects[] = [
     description: "Text-to-Audio w/ Python 3",
   },
   {
+    title: "Sidewalks",
+    href: "https://github.com/skywalkerSam/Sidewalks",
+    description: "Sidewalks...",
+  },
+  {
     title: "The Hello World Project",
     href: "https://github.com/skywalkerSam/the-hello-world-project",
     description:
       "Hello World for Every Programming Language possible! Hopefully.)",
-  },
-  {
-    title: "Sidewalks",
-    href: "https://github.com/skywalkerSam/Sidewalks",
-    description: "Sidewalks...",
   },
 ];
