@@ -11,7 +11,7 @@
 
 [projects.skywalkerSam.dev](https://blog.skywalkersam.dev)
 
-[starboy-projects.vercel.app](https://starboy-blogs.vercel.app/)
+[starboy-projects.vercel.app](https://starboy-projects.vercel.app/)
 
 <!-- ## Sources -->
 
