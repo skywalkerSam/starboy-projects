@@ -1,3 +1,5 @@
+import ActiveProjects from "../_components/ActiveProjects";
+import ActiveTitle from "../_components/ActiveTitle";
 import ArchivedProjects from "../_components/ArchivedProjects";
 import ArchivesTitle from "../_components/ArchivesTitle";
 import ExProjects from "../_components/ExProjects";
@@ -13,12 +15,18 @@ export default function HomePage() {
       <Projects></Projects>
       <br />
       <hr />
+      <ActiveTitle></ActiveTitle>
+      <ActiveProjects></ActiveProjects>
+      <br />
+      <hr />
       <ExTitle></ExTitle>
       <ExProjects></ExProjects>
       <br />
       <hr />
       <ArchivesTitle></ArchivesTitle>
       <ArchivedProjects></ArchivedProjects>
+      <br />
+      <hr />
     </main>
   );
 }
