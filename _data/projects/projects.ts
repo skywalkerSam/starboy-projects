@@ -14,13 +14,13 @@ export const projectsList: Projects[] = [
     title: "Next Gallery",
     href: "https://github.com/skywalkerSam/next-gallery",
     description:
-      "Personalized cloud-based image gallery application w/ Next.js + Vercel.",
+      "Gallery Demo w/ Next.js + Vercel.",
   },
   {
     title: "projects.skywalkerSam.dev",
     href: "https://github.com/skywalkerSam/starboy-projects",
     description:
-      "indexing a comprehensive list of all of my projects in existence...",
+      "indexing a comprehensive list of all of my projects in existence.",
   },
   {
     title: "blog.skywalkerSam.dev",
