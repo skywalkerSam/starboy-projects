@@ -9,11 +9,11 @@ export const activeList: Projects[] = [
   {
     title: "The Novel",
     href: "https://github.com/skywalkerSam/the-novel",
-    description: "A platform for everything poetic...",
+    description: "The Novel Platform.",
   },
   {
     title: "Product Demo",
     href: "https://github.com/skywalkerSam/product-demo",
-    description: "Work in Progress!",
+    description: "Work in Progress! Check back in a while...",
   }
 ];
