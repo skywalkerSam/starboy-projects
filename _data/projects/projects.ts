@@ -14,7 +14,7 @@ export const projectsList: Projects[] = [
     title: "Next Gallery",
     href: "https://github.com/skywalkerSam/next-gallery",
     description:
-      "Gallery Demo w/ Next.js + Vercel.",
+      "A Personalized Gallery Application.",
   },
   {
     title: "projects.skywalkerSam.dev",
