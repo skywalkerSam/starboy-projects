@@ -9,7 +9,7 @@ export default function ExProjects() {
         {archivesList.map((project) => (
           <Link
             key={project.title}
-            className="flex max-w-xl flex-col gap-4 rounded-3xl bg-white/30 p-4 hover:bg-sky-300"
+            className="flex max-w-xl flex-col gap-4 rounded-3xl bg-white/30 p-4 hover:bg-red-300"
             href={project.href}
             target="_blank"
             rel="noopener noreferrer"
