@@ -3,7 +3,7 @@ export default function ArchivesTitle() {
     <>
       <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16">
         <h1 className="text-3xl font-extrabold tracking-tight sm:text-[5rem]">
-          Archives<span className="text-sky-400">.</span>
+          Archives<span className="text-red-400">.</span>
         </h1>
       </div>
     </>
