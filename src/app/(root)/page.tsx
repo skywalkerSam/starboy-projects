@@ -7,6 +7,9 @@ import ExTitle from "../_components/ExTitle";
 import Projects from "../_components/Projects";
 import Title from "../_components/Title";
 
+// ISR
+export const revalidate = 3600;
+
 export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-transparent via-sky-400 to-transparent">
