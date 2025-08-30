@@ -11,20 +11,20 @@ export const projectsList: Projects[] = [
     description: "My Personal Corner of The Web.",
   },
   {
-    title: "Next Gallery",
-    href: "https://github.com/skywalkerSam/next-gallery",
-    description:
-      "A Personalized Gallery Application.",
+    title: "blog.skywalkerSam.dev",
+    href: "https://github.com/skywalkerSam/starboy-blogs",
+    description: "A Starboy's Blog.",
   },
   {
     title: "projects.skywalkerSam.dev",
     href: "https://github.com/skywalkerSam/starboy-projects",
     description:
-      "indexing a comprehensive list of all of my projects in existence.",
+    "indexing a comprehensive list of all of my projects in existence.",
   },
   {
-    title: "blog.skywalkerSam.dev",
-    href: "https://github.com/skywalkerSam/starboy-blogs",
-    description: "A Starboy's Blog.",
+    title: "Next Gallery",
+    href: "https://github.com/skywalkerSam/next-gallery",
+    description:
+      "A Personalized Gallery Application.",
   },
 ];
