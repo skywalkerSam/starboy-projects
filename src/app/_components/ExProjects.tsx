@@ -9,7 +9,7 @@ export default function ExProjects() {
         {exProjectsList.map((project) => (
           <Link
             key={project.title}
-            className="flex max-w-xl flex-col gap-4 rounded-3xl bg-black/10 p-4 hover:bg-yellow-400/60"
+            className="flex max-w-xl flex-col gap-4 rounded-3xl bg-black/10 p-4 hover:bg-purple-400/60"
             href={project.href}
             target="_blank"
             rel="noopener noreferrer"
