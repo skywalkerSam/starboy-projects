@@ -24,7 +24,7 @@ const paprika = Paprika({
 
 // https://nextjs.org/learn/dashboard-app/adding-metadata
 export const metadata: Metadata = {
-  title: "Starboy's Projects",
+  title: "A Starboy's Projects",
   description:
     "indexing a comprehensive list of all of my projects in existence.",
   metadataBase: new URL("https://projects.skywalkersam.dev/"),
